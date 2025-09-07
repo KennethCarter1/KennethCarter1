@@ -23,7 +23,3 @@
 | SQL (SQL Server) | MySQL | Visual Studio Code, Azure Data Studio |
 
 ---
-
-### 🚀 Mis Proyectos Destacados
-
-*Aún estoy construyendo esta sección. ¡Vuelve pronto para ver mis proyectos!*
