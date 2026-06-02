@@ -4,7 +4,6 @@
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript y C# con .NET**.
 - 🔭 Estoy trabajando en proyectos personales.
 - 📫 Puedes contactarme en **kenneth.jared1004@gmail.com**.
 
@@ -20,6 +19,3 @@
 
 ---
 ### 🚀 Mis Proyectos
-
-- **[Gestor-de-Tareas-en-Consola](https://github.com/KennethCarter1/Gestor-de-Tareas-en-Consola)**: Aplicación de consola que permite al usuario crear, ver, marcar como completadas y eliminar tareas. Las tareas se guardan en un archivo de texto (.txt) para que los datos persistan entre sesiones.
-- **[Cajero-Automatico-con-java](https://github.com/KennethCarter1/Cajero-Automatico-con-java)**: Sistema desarrollado en Java que simula un cajero automático, permitiendo consultas de saldo, retiros y depósitos, utilizando una base de datos MySQL para la gestión de cuentas.
